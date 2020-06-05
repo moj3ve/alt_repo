@@ -4,13 +4,13 @@
       "beta": false,
       "bundleIdentifier": "com.provenance-emu.provenance",
       "developerName": "Provenance Team",
-      "downloadURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Provenance/Provenance-Release-1.4.ipa",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Provenance/icon.png",
+      "downloadURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Provenance/Provenance-Release-1.4.ipa",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Provenance/icon.png",
       "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems\n\nSystems Supported:\nAtari\n2600\n5200\n7800\nLynx\nJaguar\nBandai\nWonderSwan / WonderSwan Color\nNEC\nPC Engine / TurboGrafx-16 (PCE/TG16)\nPC Engine Super CD-ROM² System / TurboGrafx-CD\nPC Engine SuperGrafx\nPC-FX\nNintendo\nNintendo Entertainment System / Famicom (NES/FC)\nFamicom Disk System\nSuper Nintendo Entertainment System / Super Famicom (SNES/SFC)\nGame Boy / Game Boy Color (GB/GBC)\nVirtual Boy\nNintendo 64 (N64)\nGame Boy Advance (GBA)\nPokémon mini\nSega\nSG-1000\nMaster System\nGenesis / Mega Drive\nGame Gear\nCD / MegaCD\n32X\nSNK\nNeo Geo Pocket / Neo Geo Pocket Color\nSony\nPlayStation (PSX/PS1)\nSystems in Development:\nNintendo\nDS\nSega\nDreamcast (reicast)\nSaturn (yabause)\nSony\nPSP (ppsspp)\nFeatures\nVery Accurate, Full Speed Emulation\nStereo Sound\nSave States (save anywhere/game freezing)\nBattery Saves (native game saves)\nAdjustable Controller Overlay Opacity\nController Support:\nMFi Game Controller Support\niCade Controller Support (8bitdo, etc…)\nLocal Multiplayer via External Controllers\nPortrait and Landscape Orientation\nAutomatic ROM Matching (Game Title, Cover Art, Description, Genre, etc…) via OpenVGDB\nROM Customizations (Cover Art, Game Titles) (Instructions)\nMultiple Options for Managing ROMs, Game Saves and Cover Art:\nImport / Export:\nUploading (via built-in web server)\nImport:\nDownloading (from mobile browsers)\nCopying (from other mobile apps and AirDrop)\nInjecting (with desktop apps)\nGame Library Searching\niOS 9+ (iPhone, iPad)\n3D Touch Shortcuts for Recent Games (iPhone 6s and later, except iPhone SE and iPhone Xʀ)\nTaptic Engine Button Feedback (iPhone 7 and later)\nSpotlight Searching (Setup)",
       "name": "Provenance",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Provenance/screen.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Provenance/screen1.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Provenance/screen.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Provenance/screen1.png"
       ],
       "size": 103608274,
       "subtitle": "Multi Emulator for iOS",
@@ -23,18 +23,18 @@
       "beta": false,
       "bundleIdentifier": "com.FaizanDurrani.Paperback",
       "developerName": "Faizan Durrani",
-      "downloadURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/Paperback.ipa",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/icon.png",
+      "downloadURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/Paperback.ipa",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/icon.png",
       "localizedDescription": "Paperback is a fully ad-free manga reader for iOS 13 and iPadOS 13.4 and up.\n\niPad support\n• Friendly layout with a robust double spread chapter reader for iPad.\n\nMangaDex integration\n• Paperback will sync your mangas and settings to and from MangaDex.\n\nNo advertisements\n• Unlike other not-to-be-named apps and websites, this is a fully ad-free experience.\n\nIf you enjoy the app, please support the developer on Patreon to get access to the beta version of the app: https://www.patreon.com/FaizanDurrani",
       "name": "Paperback",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/screen.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/screen1.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/screen2.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/screen3.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/screen4.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/screen5.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Paperback/screen6.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/screen.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/screen1.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/screen2.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/screen3.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/screen4.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/screen5.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Paperback/screen6.png"
       ],
       "size": 23097297,
       "subtitle": "An ad-free manga reader for iOS.",
@@ -47,12 +47,12 @@
       "beta": false,
       "bundleIdentifier": "com.louisanslow.record",
       "developerName": "Louis Anslow",
-      "downloadURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Rewound/Rewound.ipa",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Rewound/icon.png",
+      "downloadURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Rewound/Rewound.ipa",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Rewound/icon.png",
       "localizedDescription": "Rewound turns your smartphone into your favourite MP3 player from the early 2000s. Access your whole Apple Music library with the swipe of a clickywheel.",
       "name": "Rewound",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Rewound/screen1.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Rewound/screen1.png"
       ],
       "size": 11141120,
       "subtitle": "iPod Classic for iPhone",
@@ -65,13 +65,13 @@
       "beta": false,
       "bundleIdentifier": "com.dry05.filzaescaped11-12",
       "developerName": "AppleDry05",
-      "downloadURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/FilzaEscaped/FilzaEscaped.ipa",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/FilzaEscaped/icon.png",
+      "downloadURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/FilzaEscaped/FilzaEscaped.ipa",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/FilzaEscaped/icon.png",
       "localizedDescription": "Filza is an iOS app that is designed to give you file level root access to your device without having to jailbreak it. As the device does not have to be jailbroken, it does not void the warranty. You can access all entire folder structure and all the system files. Filza iOS app lets even lets you add new files and delete the existing ones, only in some folders.",
       "name": "FilzaEscaped13",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/FilzaEscaped/screen0.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/FilzaEscaped/screen1.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/FilzaEscaped/screen0.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/FilzaEscaped/screen1.png"
       ],
       "size": 13900000,
       "subtitle": "iOS 13 File Manager",
@@ -85,13 +85,13 @@
       "bundleIdentifier": "com.electrateam.chimera",
       "developerName": "Electra Team",
       "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Chimera/icon.png",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Chimera/icon.png",
       "localizedDescription": "Full-fledged:\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.\n\nStable:\nWe've rewritten Chimera from the ground up to ensure that there's no battery drain, freezing, or crashing. There's simply nothing else like it, and we can't wait for you to see for yourself.\n\nModern:\nChimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible.\n\n",
       "name": "Chimera",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Chimera/screen1.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Chimera/screen2.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Chimera/screen3.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Chimera/screen1.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Chimera/screen2.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Chimera/screen3.png"
       ],
       "size": 91350280,
       "subtitle": "A jailbreak tool for iOS 12.0 - 12.4",
@@ -104,14 +104,14 @@
       "beta": false,
       "bundleIdentifier": "com.spotify.client",
       "developerName": "@iJulioverne",
-      "downloadURL": "https://github.com/CrafterPika/crafterpika.github.io/blob/master/alt_repo/assets/Spotify/Spotify.ipa?raw=true",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Spotify/icon.png",
+      "downloadURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Spotify/Spotify.ipa",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/Spotify/icon.png",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: \n- No downloads.\n\nSo what does Spotify++ change?\n- All kinds of ads removed\n- Unlimited skips\n- Play any song or album\n- Enable extreme streaming quality\n- No forced shuffle\n- Import songs from the Music app",
       "name": "Spotify++",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Spotify/screen1.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Spotify/screen2.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/Spotify/screen3.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Spotify/screen1.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Spotify/screen2.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/Spotify/screen3.png"
       ],
       "size": 55561205,
       "subtitle": "Spotify with free premium.",
@@ -124,15 +124,15 @@
       "beta": false,
       "bundleIdentifier": "ru.nonamedude.iTorrent",
       "developerName": "XITRIX",
-      "downloadURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iTorrent/iTorrent.ipa",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iTorrent/icon.png",
+      "downloadURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/iTorrent/iTorrent.ipa",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/iTorrent/icon.png",
       "localizedDescription": "It is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n- Download in the background\n- Sequential download (use VLC to watch - films while loading)\n- Add torrent files from Share menu (Safari and other apps)\n- Add magnet links directly from Safari\n- Store files in Files app (iOS 11+)\n- File sharing directly from app\n- Download torrent by link\n- Download torrent by magnet\n- Send notification on torrent downloaded\n- WebDav Server\n- Select files to download or not\n- Change UI to dark theme\n- ???",
       "name": "iTorrent",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iTorrent/screen1.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iTorrent/screen2.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iTorrent/screen3.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iTorrent/screen4.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/iTorrent/screen1.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/iTorrent/screen2.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/iTorrent/screen3.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/iTorrent/screen4.png"
       ],
       "size": 20951040,
       "subtitle": "Torrent Client for iOS",
@@ -145,15 +145,15 @@
       "beta": false,
       "bundleIdentifier": "net.nerd.iNDS-true",
       "developerName": "iNDS Team",
-      "downloadURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iNDS/iNDS.ipa",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iNDS/icon.png",
+      "downloadURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/iNDS/iNDS.ipa",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/iNDS/icon.png",
       "localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
       "name": "iNDS",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iNDS/screen1.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iNDS/screen3.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iNDS/screen4.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iNDS/screen2.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/iNDS/screen1.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/iNDS/screen3.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/iNDS/screen4.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/iNDS/screen2.png"
       ],
       "size": 8576690,
       "subtitle": "Revival of the Nintendo DS emulator for iOS",
@@ -166,13 +166,13 @@
       "beta": false,
       "bundleIdentifier": "com.iphonecake.appcakej",
       "developerName": "iPhoneCake Team",
-      "downloadURL": "https://github.com/CrafterPika/crafterpika.github.io/blob/master/alt_repo/assets/AppCake/appcake-jb.ipa?raw=true",
-      "iconURL": "https://raw.githubusercontent.com/CrafterPika/crafterpika.github.io/master/alt_repo/assets/AppCake/icon.png",
+      "downloadURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/AppCake/appcake-jb.ipa",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/AppCake/icon.png",
       "localizedDescription": "AppCake is a native application allowing you to install IPA files on your iOS device. It offers the functionality of an App Store with the option to download apps on your iPhone. After installing it you will gain access to cracked apps and games.",
       "name": "AppCake",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/AppCake/screen0.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/AppCake/screen1.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/AppCake/screen0.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/AppCake/screen1.png"
       ],
       "size": 12976128,
       "subtitle": "Best iOS 3rd Party Store",
@@ -186,13 +186,13 @@
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd",
       "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v5.0.1/unc0ver-v5.0.1.ipa",
-      "iconURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/unc0ver/icon.png",
+      "iconURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/unc0ver/icon.png",
       "localizedDescription": "unc0ver is a jail​break, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nImportant Information\nunc0ver is designed to be stable and enable freedom from the moment you jail​break your device. Built-in runtime policy softener allows running code without Apple's notarization and pervasive restrictions. Proper runtime modifications to iOS kernel modify security features as necessary and result in:\n\n\nNo Extra Security Vulnerabilities\nunc0ver preserves security layers designed to protect your personal information and your iOS device by adjusting them as necessary instead of removing them. With this security adjusted on your iOS device, you can run your favorite jail​break apps and tweaks while still being protected from attackers.\n\n\nStability & Battery Life\nunc0ver is tirelessly developed and rigorously tested with software stability and battery life in mind. If you're experiencing issues with stability or battery life, we recommend searching your device for faulty tweaks.\n\n\nReconciliation of Services\nServices such as iCloud, iMessage, FaceTime, Apple Pay, Visual Voicemail, Weather, and Stocks, have been reconciled and still work on the device.\n\n\nFuture Software Updates\nThe ability to apply future updates is retained. Modifications to iOS kernel are done in memory. This results in the jailbroken iPhone, iPad, or iPod touch staying operable when a future Apple-supplied iOS update is installed.\n\n\niOS Updates\nunc0ver Team strongly cautions against installing any iOS software update that breaks unc0ver as you can't re-jail​break on versions of iOS that are not supported by unc0ver at that time.\n\n\nJail​break Legality\nIt is also important to note that iOS jail​breaking is exempt and legal under DMCA. Any installed jail​break software can be uninstalled by re-jail​breaking with the restore rootfs option to take Apple's service for an iPhone, iPad, or iPod touch that was previously jailbroken.",
       "name": "unc0ver",
       "screenshotURLs": [
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/unc0ver/screen1.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/unc0ver/screen2.png",
-        "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/unc0ver/screen3.png"
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/unc0ver/screen1.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/unc0ver/screen2.png",
+        "https://github.com/Pwnders/alt_repo/raw/master/assets/unc0ver/screen3.png"
       ],
       "size": 42056632,
       "subtitle": "iOS 11.0 - 13.5 Jailbreak",
@@ -202,15 +202,15 @@
       "versionDescription": "v5.0.1\n- Enable unrestricted storage access to jailbreak applications for sandbox backwards compatibility while keeping security intact by leaving the security restrictions enabled for system and user applications\n- Update Phone Rebel case models and bundled packages\n\n\nv5.0.0\n- Full-fledged support for all devices on iOS 11.0-13.5 with Cydia and tweak injection\n"
     }
   ],
-  "identifier": "alt.crafterpika.github.io",
-  "name": "CrafterPika's repo",
+  "identifier": "alt.pwnders.github.io",
+  "name": "Pwnders's repo",
   "news": [
     {
       "appID": "net.nerd.iNDS-true",
       "caption": "iNDS is now on this repo!",
       "date": "2020-05-25",
       "identifier": "play-old-Classics-again",
-      "imageURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/iNDS/news.png",
+      "imageURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/iNDS/news.png",
       "notify": false,
       "tintColor": "fc2125",
       "title": "Play Old Classics Again",
@@ -221,7 +221,7 @@
       "caption": "unc0ver v5.0.1 is out",
       "date": "2020-05-25",
       "identifier": "unc0ver-v5-0-1",
-      "imageURL": "https://github.com/CrafterPika/crafterpika.github.io/raw/master/alt_repo/assets/unc0ver/news.png",
+      "imageURL": "https://github.com/Pwnders/alt_repo/raw/master/assets/unc0ver/news.png",
       "notify": false,
       "tintColor": "000000",
       "title": "unc0ver v5.0.1",
